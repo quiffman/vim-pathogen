@@ -1,6 +1,6 @@
 [submodule "vim-puppet"]
 	path = bundle/puppet
-	url = https://github.com/rodjek/vim-puppet.git
+	url = https://github.com/quiffman/vim-puppet.git
 [submodule "syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
