@@ -28,3 +28,6 @@
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/vim-varnish"]
+	path = bundle/vim-varnish
+	url = https://github.com/empanda/vim-varnish.git
